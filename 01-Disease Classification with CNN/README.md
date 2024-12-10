@@ -20,5 +20,8 @@ In this project we will use the libraries below :
 --> math  
 --> matplotlib  
 --> tensorflow keras  
+
+
+      
 Finally the cnn model which has trained with 5 epoch gives us thses results:  
 acc: 0.9990 - loss: 0.0045 - val_acc: 0.9983 - val_loss: 0.0080 - learning_rate: 0.0010.
