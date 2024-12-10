@@ -25,5 +25,5 @@ In this project i'm used the libraries below :
 
 
   
-Finally the CNN model which has trained with 5 epochs gives us these results:  
+Finally the CNN model which has trained with 5 epochs gives me these results:  
 acc: 0.9990 - loss: 0.0045 - val_acc: 0.9983 - val_loss: 0.0080 - learning_rate: 0.0010.
