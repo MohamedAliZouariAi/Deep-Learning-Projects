@@ -12,7 +12,7 @@ Execute the first cell on the notebook
 Then remove all the images on the Medical_test subfolders and continue with the next cells.  
 
     
-In this project we will use the libraries below :  
+In this project i'm used the libraries below :  
 --> os   
 --> numpy  
 --> pandas  
