@@ -1,3 +1,5 @@
+![wiring](image.jpg)  
+  
 INSTALL THE DATA :  
 https://cainvas-static.s3.amazonaws.com/media/user_data/cainvas-admin/MedNIST.zip  
 
