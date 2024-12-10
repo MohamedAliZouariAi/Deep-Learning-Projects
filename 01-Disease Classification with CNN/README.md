@@ -1,4 +1,4 @@
-![project1](image.jpg)  
+![project1](Image.jpg)  
   
 INSTALL THE DATA :  
 https://cainvas-static.s3.amazonaws.com/media/user_data/cainvas-admin/MedNIST.zip  
