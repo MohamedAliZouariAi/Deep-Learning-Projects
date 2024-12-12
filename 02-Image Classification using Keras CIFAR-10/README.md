@@ -20,7 +20,7 @@ In this project i used the following libraries:
 --> matplotlib  
 --> numpy  
 --> PIL 
---> tkinter  (in oredr to show the algorithm in graphical window sp you can upload your prefered image and then click to classify image button and it gives you the result of the predicted image.)  
+--> tkinter  (in oreder to show the algorithm in graphical window sp you can upload your prefered image and then click to classify image button and it gives you the result of the predicted image.)  
 
 
 
