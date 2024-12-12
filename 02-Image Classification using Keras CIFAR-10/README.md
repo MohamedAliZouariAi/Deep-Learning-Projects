@@ -15,7 +15,7 @@ The classes of the images are :
 10) truck
 
 
-In this project i used the following libraries:
+In this project i used the following libraries:  
 --> tensorflow keras  
 --> matplotlib  
 --> numpy  
