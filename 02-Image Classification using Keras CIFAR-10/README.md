@@ -19,8 +19,8 @@ In this project i used the following libraries:
 --> tensorflow keras  
 --> matplotlib  
 --> numpy  
---> PIL 
---> tkinter  (in oreder to show the algorithm in graphical window sp you can upload your prefered image and then click to classify image button and it gives you the result of the predicted image.)  
+--> PIL   
+--> tkinter  (in oreder to show the algorithm in graphical window so you can upload your prefered image and then click to classify image button and it gives you the result of the predicted image.)  
 
 
 
