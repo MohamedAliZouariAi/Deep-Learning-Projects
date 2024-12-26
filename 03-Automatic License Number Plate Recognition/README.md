@@ -1,7 +1,8 @@
 ![project3](auto.jpg)  
 The original code : https://techvidvan.com/tutorials/download-automatic-license-number-plate-recognition-project-source-code/  
-Automatic License Number Plate Recognition using Deep Learning offers several significant benefits, particularly in the context of law enforcement, traffic management, and security.   
-The techniques utilized with the powerful OpenCV are:  
+Automatic License Number Plate Recognition using Deep Learning offers several significant benefits, particularly in the context of law enforcement, traffic management, and security.  
+  
+The techniques utilized with the powerful OpenCV are:
 1) Gaussian Blur to smooth the image.  
 2) Sobel to detect edges in the horizontal direction.  
 3) Morphological operation (Closing) to fill small gaps in the binary image.  
